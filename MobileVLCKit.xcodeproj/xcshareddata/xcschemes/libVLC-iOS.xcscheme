@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6E9AE80D1F859B8F0079984F"
-               BuildableName = "libVLC_iOS.framework"
+               BuildableName = "VLC.framework"
                BlueprintName = "libVLC iOS"
                ReferencedContainer = "container:MobileVLCKit.xcodeproj">
             </BuildableReference>
@@ -48,7 +48,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6E9AE80D1F859B8F0079984F"
-            BuildableName = "libVLC_iOS.framework"
+            BuildableName = "VLC.framework"
             BlueprintName = "libVLC iOS"
             ReferencedContainer = "container:MobileVLCKit.xcodeproj">
          </BuildableReference>
@@ -66,7 +66,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6E9AE80D1F859B8F0079984F"
-            BuildableName = "libVLC_iOS.framework"
+            BuildableName = "VLC.framework"
             BlueprintName = "libVLC iOS"
             ReferencedContainer = "container:MobileVLCKit.xcodeproj">
          </BuildableReference>
