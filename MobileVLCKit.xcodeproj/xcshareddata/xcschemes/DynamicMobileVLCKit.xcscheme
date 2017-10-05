@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7D8939261B500D1C008F2B14"
-               BuildableName = "DynamicMobileVLCKit.framework"
-               BlueprintName = "DynamicMobileVLCKit"
+               BuildableName = "VLC.framework"
+               BlueprintName = "libVLC iOS"
                ReferencedContainer = "container:MobileVLCKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -48,8 +48,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7D8939261B500D1C008F2B14"
-            BuildableName = "DynamicMobileVLCKit.framework"
-            BlueprintName = "DynamicMobileVLCKit"
+            BuildableName = "VLC.framework"
+            BlueprintName = "libVLC iOS"
             ReferencedContainer = "container:MobileVLCKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,8 +66,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7D8939261B500D1C008F2B14"
-            BuildableName = "DynamicMobileVLCKit.framework"
-            BlueprintName = "DynamicMobileVLCKit"
+            BuildableName = "VLC.framework"
+            BlueprintName = "libVLC iOS"
             ReferencedContainer = "container:MobileVLCKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
